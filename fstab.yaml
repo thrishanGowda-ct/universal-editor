@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p99508-e1532789.adobeaemcloud.com/"
+    url: "https://author-p99508-e1532789.adobeaemcloud.com/bin/franklin.delivery/thrishanGowda-ct/universal-editor/main"
     type: "markup"
     suffix: ".html"
